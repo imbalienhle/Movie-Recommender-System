@@ -6,11 +6,12 @@ The Movie Recommender System is a full stack  machine learning web application t
 
 
 # Features
-- Interactive user interface
-- Recommends 10 Movies based on searched title
-- Movie poster display
-- Fast API backend integration
-- Machine Learning recommendation engine
+- 💿Interactive user interface
+- 🎬Recommends 10 Movies based on searched title
+- 🖼Movie poster display
+- ⚡Fast API backend integration
+- 🛸Machine Learning recommendation engine
+- 🔐Full stack integration
 
 # Architechure
 ```
@@ -32,19 +33,24 @@ Movie Dataset (pandas/NumPy)
       v
 TMDB API
 ```
-# Tech Stack
+# ⚙Tech Stack
 ## Front-end
--Streamlit
+- Streamlit
 
 ## Back-end
 - FastAPI
 
-## Machine Learning
+## 🛸Machine Learning
 - scikit-learn
 - TF-IDF Vectorizer
 - Cosine Similarity
 
-## Data Processing
+## 📊Data Processing
 - Numpy
 - Pandas
 - Pickle
+
+# 🔗Future Improvements
+- Improve UI/UX design
+- Add Movie trailefer(fetched from YouTube API)
+- 
