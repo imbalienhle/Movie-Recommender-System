@@ -4,6 +4,11 @@ The Movie Recommender System is a full stack  machine learning web application t
 
 # 🚀Live Demo
 
+> <img width="1910" height="986" alt="MovieRecommenderDemo" src="https://github.com/user-attachments/assets/0db7fab9-a80a-498d-83ad-96a3184d865a" />
+.gif)
+
+---
+
 
 # Features
 - 💿Interactive user interface
@@ -53,4 +58,4 @@ TMDB API
 # 🔗Future Improvements
 - Improve UI/UX design
 - Add Movie trailefer(fetched from YouTube API)
-- 
+  
